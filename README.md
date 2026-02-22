@@ -24,7 +24,7 @@ The objective is to understand:
 
 This work was completed as a group project for BAIT 508 – Business Applications of AI & Text Analytics.
 
-[Back To The Top] (#top)
+[Back To The Top](#top)
 
 ### Technologies
 
@@ -34,7 +34,7 @@ This work was completed as a group project for BAIT 508 – Business Application
 - scikit-learn (TF-IDF)
 - wordcloud
 
-[Back To The Top] (#top)
+[Back To The Top](#top)
 
 ## How To Use
 
@@ -58,7 +58,7 @@ pip install pandas numpy matplotlib scikit-learn wordcloud
 - Keyword extraction + TF-IDF
 - Word cloud generation
 
-[Back To The Top] (#top)
+[Back To The Top](#top)
 
 ### Analysis Workflow
 - Filter firms by SIC code (Transportation by Air)
@@ -68,16 +68,16 @@ pip install pandas numpy matplotlib scikit-learn wordcloud
 - Apply TF-IDF to extract dominant keywords
 - Visualize themes using word clouds
 
-[Back To The Top] (#top)
+[Back To The Top](#top)
 
 ### References
 - W3Schools – Python string methods
 - W3Schools – pandas filtering utilities
 - Course materials (BAIT 508)
 
-[Back To The Top] (#top)
+[Back To The Top](#top)
 
 ### Author Info
 - Thao Do, Koko Deng (UBC)
 
-[Back To The Top] (#top)
+[Back To The Top](#top)
