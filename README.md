@@ -1,5 +1,5 @@
 <a name="top"></a>
-# ✈️ BAIT 508 Group Project — Transportation by Air (SIC 45)
+# ✈️ Transportation by Air Project (SIC 45)
 
 ## Table of Contents
 
